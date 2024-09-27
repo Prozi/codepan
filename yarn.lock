@@ -3066,20 +3066,20 @@ check-types@^7.3.0:
   resolved "https://registry.yarnpkg.com/check-types/-/check-types-7.4.0.tgz#0378ec1b9616ec71f774931a3c6516fad8c152f4"
   integrity sha512-YbulWHdfP99UfZ73NcUDlNJhEIDgm9Doq9GhpyXbF+7Aegi3CVV7qqMCKTTqJxlvEvnQBp9IA+dxsGN6xK/nSg==
 
-chef-core@^3.0.6:
-  version "3.0.6"
-  resolved "https://registry.yarnpkg.com/chef-core/-/chef-core-3.0.6.tgz#f0b0b5fb745b88d1fc914800b98623cc38c72395"
-  integrity sha512-ux4HnkYETopFuKwJOt09H44qTwlGGYdz7ezHPObXJrze+VaKBVtDNSZNRHGBiPfdbaAfWMsyAWMdVuHC+FRBig==
+chef-core@^3.3.2:
+  version "3.3.2"
+  resolved "https://registry.yarnpkg.com/chef-core/-/chef-core-3.3.2.tgz#224d3808c3ca339ddc5e8fa561969573d07b2157"
+  integrity sha512-CdjYPjbr0wmnjXZqPCM1bf6HAujRl4USKWz2KnO8NOvbUem48aHBSIrVhazMfYkrgeuYAkn3tggsMupM8OU3sA==
   dependencies:
     "@pietal.dev/cache" "^2.0.2"
     mime-types "^2.1.35"
 
-chef-express@^2.1.4:
-  version "2.1.4"
-  resolved "https://registry.yarnpkg.com/chef-express/-/chef-express-2.1.4.tgz#d1b77e781b7107445a3c97513ad1690cca260bd6"
-  integrity sha512-aU5xddlIEvuIul+thkpK4DQaaKzhuV8yxxzie6mho6gpJp96Rbt+n2Sd86y+ZMygX+y6fWJLf8hKrf4jH5byWA==
+chef-express@^2.4.2:
+  version "2.4.2"
+  resolved "https://registry.yarnpkg.com/chef-express/-/chef-express-2.4.2.tgz#b35526ec4c1da2b0be3a820c2cc4cbaafd5dc8c1"
+  integrity sha512-sP6iS30a8TQpeUDQ2YAL1kr0kgIHKKfqSYakWkm4MRz5qJm6T86L/kUgaXYztcPL7Ak/uGS3C8cimdQ+jLy0Xw==
   dependencies:
-    chef-core "^3.0.6"
+    chef-core "^3.3.2"
     express "^4.19.2"
 
 chokidar@^2.0.4, chokidar@^2.1.8:
